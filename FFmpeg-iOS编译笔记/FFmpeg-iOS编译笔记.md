@@ -11,6 +11,10 @@
 
 执行编译脚本 `build-ffmpeg.sh` ，耗时根据网络等因素大概10-20分钟吧，最终结果将保存在 `FFmpeg-iOS` 这个目录中。
 
+[fdk-aac 官网](https://www.linuxfromscratch.org/blfs/view/svn/multimedia/fdk-aac.html)
+
+[x264官网](https://www.videolan.org/developers/x264.html)
+
 ## 2. 集成测试
 
 新建一个iOS App工程项目，以 `FFmpegiOSDemo` 为例，将编译结果 `FFmpeg-iOS` 整个文件夹拷贝到项目目录中，如下图：

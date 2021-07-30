@@ -1,0 +1,167 @@
+libAACenc/src/qc_main.lo: \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/qc_main.cpp \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/qc_main.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacenc.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/common_fix.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_archdef.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/machine_type.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/__config \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/pthread.h \
+  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include/stddef.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/__nullptr \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixmul.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/fixmul_arm.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/abs.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/clz.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/clz_arm.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixmadd.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/fixmadd_arm.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixminmax.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/cplx_mul.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/cplx_mul_arm.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixpoint_math.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/scale.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/genericStds.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/scale_arm.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/FDK_audio.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/syslib_channelMapDescr.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libMpegTPEnc/include/tpenc_lib.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libMpegTPEnc/include/tp_data.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_bitstream.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_bitbuffer.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSBRenc/include/sbr_encoder.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/qc_data.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_const.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/dyn_bits.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacenc_tns.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/adj_thr_data.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/line_pe.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/interface.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_data.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/block_switch.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/mdct.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_main.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_configuration.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacenc_pns.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/pnsparam.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/quantize.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/adj_thr.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/sf_estim.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/bit_cnt.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacEnc_rom.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_tools_rom.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_lpc.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/channel_map.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacEnc_ram.h \
+  /Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/bitenc.h
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/qc_main.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacenc.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/common_fix.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_archdef.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/machine_type.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/stddef.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/__config:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/pthread.h:
+
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include/stddef.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.5.sdk/usr/include/c++/v1/__nullptr:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixmul.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/fixmul_arm.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/abs.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/clz.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/clz_arm.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixmadd.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/fixmadd_arm.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixminmax.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/cplx_mul.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/cplx_mul_arm.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/fixpoint_math.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/scale.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/genericStds.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/arm/scale_arm.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/FDK_audio.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSYS/include/syslib_channelMapDescr.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libMpegTPEnc/include/tpenc_lib.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libMpegTPEnc/include/tp_data.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_bitstream.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_bitbuffer.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libSBRenc/include/sbr_encoder.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/qc_data.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_const.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/dyn_bits.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacenc_tns.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/adj_thr_data.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/line_pe.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/interface.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_data.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/block_switch.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/mdct.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_main.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/psy_configuration.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacenc_pns.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/pnsparam.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/quantize.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/adj_thr.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/sf_estim.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/bit_cnt.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacEnc_rom.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_tools_rom.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libFDK/include/FDK_lpc.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/channel_map.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/aacEnc_ram.h:
+
+/Users/sandslee/Developer/iOSAudioVideoLearn/FFmpeg-iOS编译笔记/fdk-aac-build-script-for-iOS/fdk-aac-2.0.2/libAACenc/src/bitenc.h:
